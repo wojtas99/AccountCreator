@@ -1,5 +1,5 @@
 # AccountCreator
-Simple Account Creator that uses pyQT GUI and it is connected with SQL Server.
+Account Creator that uses pyQT GUI and it is connected with SQL Server.
 Main goal of this project was : 
 - Create Account Maker with GUI.
 - Accounts name and e-mails are saved in dataBase Server.
